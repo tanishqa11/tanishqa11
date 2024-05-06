@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Tanishqa Garg</h1>
 <h3 align="center">A curious soul who loves to delve into the world of coding and exploring datasets</h3>
-<img align ="right" alt="coding"  width="400" src="code.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishqa11" alt="tanishqa11" /></a> </p>
+<img align ="right" alt="coding"  width="400" src="https://github.com/tanishqa11/Portfolio/blob/main/code.gif">
 
 - 🔭 I’m currently working on **NIVARA - A food management app(a way to sustainable life)**
 
